@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 pip install --upgrade pip
-pip install opencv-python
+pip install opencv-python scikit-learn
 
 cd cds-visual
 cd cds-visual
